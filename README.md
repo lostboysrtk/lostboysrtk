@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Sarthak Sharma!
 
-🎓 I'm a passionate B.Tech student at SRM University, specializing in Computer Science and Engineering with a focus on Data Science.
-🔍 My interests lie at the exciting crossroads of Data Science and Machine Learning, where I love extracting deep insights and crafting intelligent solutions to real-world problems.
-💻 Beyond data, I dive into Web Development with a strong hold on the MERN stack. I enjoy creating seamless, dynamic, and modern web applications that blend design with performance.
+-🎓 I'm a passionate B.Tech student at SRM University, specializing in Computer Science and Engineering with a focus on Data Science.
+-🔍 My interests lie at the exciting crossroads of Data Science and Machine Learning, where I love extracting deep insights and crafting intelligent solutions to real-world problems.
+-💻 Beyond data, I dive into Web Development with a strong hold on the MERN stack. I enjoy creating seamless, dynamic, and modern web applications that blend design with performance.
 
 ---
 
