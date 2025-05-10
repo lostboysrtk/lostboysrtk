@@ -26,7 +26,6 @@
 
 - 📍 Chennai, Tamil Nadu  
 - 📧 sarthak28sharma2003@gmail.com  
-- 📱 +91 63787 20415  
 - 🌐 [GitHub](https://github.com/itzsarthak) | [LinkedIn](https://www.linkedin.com/in/itzsarthak) | [Instagram](https://www.instagram.com/sarthakksh)
 
 ---
